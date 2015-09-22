@@ -1,0 +1,12 @@
+Dzia³anie programu 
+
+1. Najpierw ³adujemy bibliotekê dŸwiêkow¹, aby mo¿na by³o odtwarzaæ pliki audio.
+2. Definiujemy zmienne potrzebne do dzia³ania programu.
+3. Konfiguracja naszego programu. Ustalamy wielkoœæ okna do dzia³ania naszego programu.
+4. Wstawiamy do programu obrazy potrzebne jako t³o i obraz wyœwietlany w oknie programu.
+5. Wstawiamy plik dŸwiêkowy do odtworzenia.
+6. Dzia³anie naszego programu. Jako t³o wyœwietlony zostanie wczeœniej wstawiony kwiatek.
+7. Nastepnie wyœwietlony zostaje drugi obraz na³o¿ony na t³o, który mo¿emy myszk¹ przesuwaæ w prawo i lewo.
+8. Uruchomienie naszego playera (ptogramu do odtworzenia muzyki)
+9. Zwiêkszanie g³oœnoœci w zale¿noœci od poziomu dŸwiêku w naszym pliku muzycznym.
+10. Rysowanie ko³a, które zwiêksza siê / zmniejsza w zale¿noœci od poziomu dŸwiêku.
